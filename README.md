@@ -189,7 +189,7 @@ The current version is a Minimum Viable Product (MVP). Future improvements inclu
 
 ## Author
 
-Lakshya Sharma
+Lakshit Soni
 
 B.Tech CSE
 
