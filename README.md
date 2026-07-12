@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening System
+#  AI Resume Screening System
 
 An end-to-end AI system that evaluates candidate resumes against job requirements using Machine Learning and Generative AI.
 
@@ -7,13 +7,13 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
 ## Features
 
 - 📄 Upload Resume PDF
-- 🤖 Resume Classification
-- 📊 Confidence Score
-- 🏆 Top 3 Predictions
-- 📈 Resume ↔ Job Description Matching
-- ⭐ ATS Resume Score
-- ✅ Skill Gap Detection
-- 💡 AI Feedback using Gemini AI
+- Resume Classification
+- Confidence Score
+- Top 3 Predictions
+- Resume ↔ Job Description Matching
+- ATS Resume Score
+- Skill Gap Detection
+- AI Feedback using Gemini AI
 
 ---
 
