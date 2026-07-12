@@ -46,6 +46,7 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
       ┌───────────┼───────────┐
       
       ▼           ▼           ▼
+      
  Calculator   Wikipedia     PDF RAG
       │           │           │
       
@@ -64,8 +65,10 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
 
 Resume PDF
 ↓
+
 Text Extraction
 ↓
+
 Text Preprocessing
 ↓
 TF-IDF Vectorization
