@@ -44,9 +44,11 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
                Router
                   │
       ┌───────────┼───────────┐
+      
       ▼           ▼           ▼
  Calculator   Wikipedia     PDF RAG
       │           │           │
+      
       └───────────┼───────────┘
                   ▼
              Evaluator
