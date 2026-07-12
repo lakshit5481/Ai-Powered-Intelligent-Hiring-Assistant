@@ -47,7 +47,9 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
       
       ▼           ▼           ▼
       
- Calculator   Wikipedia     PDF RAG
+ Calculator
+ Wikipedia  
+ PDF RAG
       │           │           │
       
       └───────────┼───────────┘
@@ -64,23 +66,37 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
 ## Project Workflow
 
 Resume PDF
+
 ↓
 
 Text Extraction
+
 ↓
 
 Text Preprocessing
+
 ↓
+
 TF-IDF Vectorization
+
 ↓
+
 Resume Classification
+
 ↓
+
 Resume-JD Similarity
+
 ↓
+
 Skill Gap Detection
+
 ↓
+
 ATS Score
+
 ↓
+
 Gemini AI Feedback
 
 ---
