@@ -47,9 +47,7 @@ An end-to-end AI system that evaluates candidate resumes against job requirement
       
       ▼           ▼           ▼
       
- Calculator
- Wikipedia  
- PDF RAG
+ Calculator  Wikipedia   PDF RAG
       │           │           │
       
       └───────────┼───────────┘
